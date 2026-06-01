@@ -23,7 +23,8 @@ repository               : "jhpark35.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "juhong2.jpeg"
+  # avatar           : "juhong2.jpeg"
+  avatar           : "JH3.jpeg"
   name             : "Juhong Park"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student"
