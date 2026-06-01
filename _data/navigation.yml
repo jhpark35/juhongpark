@@ -16,15 +16,15 @@ main:
 
   # - title: "News"
   #   url: "/#news"
+  
+  - title: "Education"
+  url: "/#education"
 
   - title: "Experience"
     url: "/#experience"
 
-  - title: "Publications"
-    url: "/#publications"
-
   - title: "Honors and Awards"
     url: "/#honors-and-awards"
 
-  - title: "Education"
-    url: "/#education"
+  - title: "Publications"
+    url: "/#publications"
