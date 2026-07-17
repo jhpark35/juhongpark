@@ -61,7 +61,7 @@ My work has covered SRAM- and DRAM-based PIM systems and has recently expanded t
 <a id="publications"></a>
 ## 📝 Publications
 
-### Selected Publications
+### First-Author Publications
 
 <p class="pub-item">
 <span class="pub-index">[1]</span>
